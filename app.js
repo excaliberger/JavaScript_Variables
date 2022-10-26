@@ -17,3 +17,11 @@ var age = 29
 let language = "JavaScript";
 let createdYear = 1995;
 let isCaseSensitive = true;
+
+// Exercise 4
+let price = 19.99;
+let isOnSale = false;
+let salePercentage = 15;
+let stock = 0;
+let instock = false;
+let selectedSize = "M";
