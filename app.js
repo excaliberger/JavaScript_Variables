@@ -25,3 +25,10 @@ let salePercentage = 15;
 let stock = 0;
 let instock = false;
 let selectedSize = "M";
+
+//Exercise 5
+let title = "Name of the Wind";
+let author = "Patrick Rothfuss";
+let pageCount = 722;
+let bookmark = 456;
+let hasRead = true;
